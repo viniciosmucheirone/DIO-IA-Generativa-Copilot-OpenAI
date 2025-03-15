@@ -6,8 +6,8 @@
 
 ## Descrição do Projeto
  
- Esse projeto irá testar e entender o poder das IAs generativas da Microsoft Copilot e OpenAI, através de uma série de interações, para entender melhor como elas funcionam e como podem ser aplicadas para gerar resultados satisfatórios  em diferentes contextos.
- No final do repositório será mostrada uma imagem desenvolvida pela Microsoft Copilot, através de um texto descrevendo os detalhes de como desejo que essa foto seja gerada.
+ Esse projeto irá testar e entender o poder das IA generativa da Microsoft Copilot e OpenAI, através de uma série de interações, para entender melhor como elas funcionam e como podem ser aplicadas para gerar resultados satisfatórios em diferentes contextos.
+ No final do repositório será mostrado uma imagem desenvolvida pela Microsoft Copilot, através de um texto descrevendo os detalhes de como desejo que essa foto seja gerada.
  
 
 
